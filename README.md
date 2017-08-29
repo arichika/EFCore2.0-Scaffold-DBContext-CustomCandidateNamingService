@@ -1,0 +1,1 @@
+# EFCore2.0-Scaffold-DBContext-CustomCandidateNamingService
